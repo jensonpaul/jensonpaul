@@ -2,18 +2,50 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Jenson+Paul.;I'm+From+India,+Munnar,+KL.;I'm+a+DevOps+Engineer.;I'm+learning+Rust.;Welcome!:%29)](https://git.io/typing-svg)
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samdark&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jenson Paul github stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
- 
-  
-  
-  
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+
+# Hi there 👋
+
+I'm Jenson, a devops engineer experienced in developing infrastructure-as-code solutions and operations automation.
+
+Crossing many languages on daily basis, PHP, my first love still keeps an important place in my dev life. Over the past years, I thought myself different programming languages to broaden my understanding of programming. These languages include Go, Haskell, ReasonML, and Rust. I am a polyglot programmer who never wants to stop learning.
+
+Passionate technophile skilled in front and back end development for different kind of services. Useful knowledge and experience with high level programming by using trending technologies.
+
+Currently working mostly with PHP to build web-services. I am more focused in back-end technologies but also have useful experience with latest front-end technologies. Always trying to apply the concepts and the experience from Computer science in softwares in order to solve specific problems and make life easier.
+
+I work a lot with
+
+- GitHub
+- Linux (mostly RHEL and Ubuntu these days)
+- Kubernetes
+- Terraform
+- Docker
+- AWS
+- PHP
+- but mostly, I work with people on all of the above!  You can find me in our work Slack sharing all sorts of neat things you can do with all that fun stuff and probably find out how I've broken and maybe fixed something too. 😀
+
+I play with
+
+- I play some video games on a Windows 10 VM on my Fedora desktop with libvirt, KVM, and a custom Linux kernel to pass hardware to it.  It's pretty neat and has about 5% or so performance drop (just looking at frame rates).
+- All sorts of handy Raspberry Pi projects, including a Kodi set up on a television for local media and a Kubernetes cluster that runs
+  - [Pi-hole](https://pi-hole.net), for DNS and ad-blocking
+  - Ubiquiti UniFi network application
+  - [Home assistant](https://www.home-assistant.io/), I'm just getting started with a few smart dimmers, but there's so much cool stuff here!
+- I have an awesome life outside of tech, so while I have a few projects that I enjoy (:point_up:), nothing above is close to where I spend most of my time / energy.
+
+Heads up!
+
+- 🔭 I’m currently working on automating everything put in front of me.
+- 🌱 I’m currently learning some more in-depth Kubernetes administration and a bit of Go as well as Rust.
+
+
 
 
 <details>
