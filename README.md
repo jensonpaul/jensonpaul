@@ -81,8 +81,7 @@ alt="redis" width="40" height="40"/> </a> <a href="https://www.linux.org/" targe
 alt="linux" width="40" height="40"/> </a>  <a href="https://www.magento.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/magento/magento-original.svg" alt="magento" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
 alt="docker" width="50" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean" width="50"
-height="40"/> </a></p>
+alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean" width="50" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="100" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="100" height="40"/> </a> </p>
 
 <div align="center">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />
