@@ -117,6 +117,7 @@ alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" 
 ### Knowledge
 
 **Languages**
+[![PHP](https://img.shields.io/badge/-PHP-f2f2f2?style=flat-square&logo=PHP&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
 [![Go](https://img.shields.io/badge/-Go-add8e6?style=flat-square&logo=Go&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
