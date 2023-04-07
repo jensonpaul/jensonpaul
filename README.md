@@ -10,7 +10,7 @@
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=jensonpaul&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+![Jenson Paul GitHub stats](https://github-readme-stats.vercel.app/api?username=jensonpaul&show_icons=true)
 
 </details>
 
@@ -18,7 +18,7 @@
     <summary> <samp>📝 Programming Languages</samp></summary>
 <br/>
 
-![Shivam Mathur Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jensonpaul&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
+![Jenson Paul Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jensonpaul)
 
 </details>
 
