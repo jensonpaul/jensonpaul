@@ -16,9 +16,7 @@ I'm Jenson, a devops engineer experienced in developing infrastructure-as-code s
 
 Crossing many languages on daily basis, PHP, my first love still keeps an important place in my dev life. Over the past years, I thought myself different programming languages to broaden my understanding of programming. These languages include Go, Haskell, ReasonML, and Rust. I am a polyglot programmer who never wants to stop learning.
 
-Passionate technophile skilled in front and back end development for different kind of services. Useful knowledge and experience with high level programming by using trending technologies.
-
-Currently working mostly with PHP to build web-services. I am more focused in back-end technologies but also have useful experience with latest front-end technologies. Always trying to apply the concepts and the experience from Computer science in softwares in order to solve specific problems and make life easier.
+Currently working mostly with PHP to build web-services. I am more focused in back-end technologies but also have useful experience with latest front-end technologies. Always trying to apply the concepts and the experience from Computer science in softwares in order to solve specific problems and make life easier. One of my greatest passions is to create software that is easy to understand and maintain using modern technologies. I am a proponent of Clean Code, Domain-Driven Design, and Extreme Programming.
 
 I work a lot with
 
