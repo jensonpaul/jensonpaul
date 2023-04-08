@@ -7,8 +7,6 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&langs_count=10" />
 </div>
 
-
-
 # Hi there 👋
 
 I'm Jenson, a devops engineer experienced in developing infrastructure-as-code solutions and operations automation.
@@ -44,7 +42,6 @@ Heads up!
 
 
 
-
 <details>
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
@@ -60,6 +57,8 @@ Heads up!
 ![Jenson Paul Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
 
 </details>
+
+
 
 ### 🔭 I’m currently working on:
 <p align="center">
@@ -162,4 +161,4 @@ alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" 
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
