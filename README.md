@@ -7,7 +7,6 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&langs_count=10" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 
 # Hi there 👋
@@ -161,3 +160,6 @@ alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/jensonpaul/)](https://github.com/jensonpaul/)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
